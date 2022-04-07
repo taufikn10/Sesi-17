@@ -1,5 +1,5 @@
 # Sesi-17
-Next JS Basic
+materi Server Side Rendering Concept (SSR)  mempelajari apa itu  SSR dan kegunaan dari SSR itu sendiri juga mempelajari Next JS Basic
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
